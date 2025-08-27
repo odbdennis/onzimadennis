@@ -1,5 +1,24 @@
-# Welcome to My Site
 
-Hello, this is my homepage created with Markdown.
+# Welcome to My GitHub Page
 
-[About Me](about.md)
+This is my personal webpage hosted on GitHub Pages.
+
+ 
+
+## About Me
+
+I am a student learning how to create web pages using GitHub.
+
+ 
+
+## My Projects
+
+- [Project 1](https://github.com/<username>/<project1-repo>;)
+
+- [Project 2](https://odbdennis.github.io/wad/)
+
+ 
+
+## Contact
+
+You can reach me at [myemail@example.com](mailto:myemail@example.com).
