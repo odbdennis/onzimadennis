@@ -13,7 +13,7 @@ I am a student learning how to create web pages using GitHub.
 
 ## My Projects
 
-- [Project 1](https://github.com/<username>/<project1-repo>;)
+- [Project 1](https://odbdennis.github.io/onzimadennis/)
 
 - [Project 2](https://odbdennis.github.io/wad/)
 
@@ -21,4 +21,4 @@ I am a student learning how to create web pages using GitHub.
 
 ## Contact
 
-You can reach me at [myemail@example.com](mailto:myemail@example.com).
+You can reach me at [onzimadennis@gmail.com]
